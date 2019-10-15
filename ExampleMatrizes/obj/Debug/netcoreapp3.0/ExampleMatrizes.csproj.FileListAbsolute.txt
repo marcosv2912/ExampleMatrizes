@@ -1,0 +1,11 @@
+C:\Users\marcos.paixao\source\repos\ExampleMatrizes\ExampleMatrizes\bin\Debug\netcoreapp3.0\ExampleMatrizes.exe
+C:\Users\marcos.paixao\source\repos\ExampleMatrizes\ExampleMatrizes\bin\Debug\netcoreapp3.0\ExampleMatrizes.deps.json
+C:\Users\marcos.paixao\source\repos\ExampleMatrizes\ExampleMatrizes\bin\Debug\netcoreapp3.0\ExampleMatrizes.runtimeconfig.json
+C:\Users\marcos.paixao\source\repos\ExampleMatrizes\ExampleMatrizes\bin\Debug\netcoreapp3.0\ExampleMatrizes.runtimeconfig.dev.json
+C:\Users\marcos.paixao\source\repos\ExampleMatrizes\ExampleMatrizes\bin\Debug\netcoreapp3.0\ExampleMatrizes.dll
+C:\Users\marcos.paixao\source\repos\ExampleMatrizes\ExampleMatrizes\bin\Debug\netcoreapp3.0\ExampleMatrizes.pdb
+C:\Users\marcos.paixao\source\repos\ExampleMatrizes\ExampleMatrizes\obj\Debug\netcoreapp3.0\ExampleMatrizes.csprojAssemblyReference.cache
+C:\Users\marcos.paixao\source\repos\ExampleMatrizes\ExampleMatrizes\obj\Debug\netcoreapp3.0\ExampleMatrizes.AssemblyInfoInputs.cache
+C:\Users\marcos.paixao\source\repos\ExampleMatrizes\ExampleMatrizes\obj\Debug\netcoreapp3.0\ExampleMatrizes.AssemblyInfo.cs
+C:\Users\marcos.paixao\source\repos\ExampleMatrizes\ExampleMatrizes\obj\Debug\netcoreapp3.0\ExampleMatrizes.dll
+C:\Users\marcos.paixao\source\repos\ExampleMatrizes\ExampleMatrizes\obj\Debug\netcoreapp3.0\ExampleMatrizes.pdb
